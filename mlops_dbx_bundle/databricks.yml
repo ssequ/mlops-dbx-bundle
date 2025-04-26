@@ -46,6 +46,7 @@ targets:
   prod:
     variables:
       catalog_name: ml_catalog
+      model_name: mlops-dbs-bundle-model-prod
     workspace:
       host: https://adb-3456846349234988.8.azuredatabricks.net
 
